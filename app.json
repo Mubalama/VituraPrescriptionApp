@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f0757fb6-c49e-4f4d-b877-f0dc8e14141a"
+      }
+    },
+    "owner": "mubalama",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f0757fb6-c49e-4f4d-b877-f0dc8e14141a"
     }
   }
 }
