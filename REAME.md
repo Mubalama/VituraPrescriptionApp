@@ -18,7 +18,7 @@ A mobile app for pharmacists to view and manage prescriptions, built using **Rea
    **Clone or Download the Project**
 
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Mubalama/VituraPrescriptionApp> or download the Zip file
    cd VituraPrescriptionApp
    To Install dependencies: from terminal and run #`npx expo install`
    For particular dependecies Ex: in our project use:
